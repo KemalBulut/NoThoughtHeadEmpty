@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/KemalBulut/NoThoughtHeadEmpty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this fghfghfghfghfghrepository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this fghfghfghfdfgdfgghfghrepository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
